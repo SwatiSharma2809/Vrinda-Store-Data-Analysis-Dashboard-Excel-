@@ -1,6 +1,7 @@
 📌 Vrinda Store Data Analysis – Excel Dashboard
 
 📝 Project Statement:
+
 Vrinda Store is a Store is a place who do online sale with other channel 
 as they want to grow thier business in next 2023 so they ask to make annual report 2022
 wants to understand:
