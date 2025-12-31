@@ -15,16 +15,16 @@ wants to understand:
 - Highest selling category ?etc.
   
 🔗 Vrinda store is place who do online sales with different-different channels
-like Amazon, flipkart, meesho, Ajio etc. ,the goal was to understand existing customer
+like Amazon, Flipkart, Meesho, Ajio etc. ,the goal was to understand existing customer
 behviour by getting some answer of question so that vrinda can increase thier sales
 in next 2023.
 
 📌Data set information:
 - Source: Vrinda Store(public)
-- Rows: 31043
-- Columns: Index, order_id, cust_id , Gender, Age, Date, Status , Channel , SKU,
-           Category, Size, Qty , Currenecy , Amount, Ship-city, Ship-state,
-           Ship-portal-code, Ship-Country , B2B.
+- Rows: 31042
+- Columns: Index,Order_id,Cust_id,Gender,Age,Date,Status,Channel,SKU,
+           Category,Size,Qty,Currenecy,Amount,Ship-city,Ship-state,
+           Ship-portal-code,Ship-Country,B2B.
 
 📌Key Highlights:
 - Highest sales are done in the month of march (~1.09M)
@@ -47,7 +47,7 @@ Excel formulas (IF, Text,etc.)
 - Give more discounts or offers to the Women ,get some inventory such products
    which the womens of this age uses more of good quality.
 - Run ads/offers/ deals like 1 day super offer day in which customer can find more
-  beneficial make it available on Amazon ,Myntra , Flipkart and advice their store also
+  beneficial make it available on Amazon,Myntra,Flipkart and advice their store also
   to improve thier sales.
 
 📌Dashboard screenshot preview:
